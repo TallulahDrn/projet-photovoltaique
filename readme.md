@@ -71,9 +71,3 @@ Fonctionnalités :
 2. Vous arrivez sur la page d’accueil côté client.
 3. Naviguez via les boutons du menu.
 4. Pour accéder au côté admin, connectez-vous via la page de connexion avec les identifiants suivants : dupont@mail.com ; monMDP123!
-
----
-
-### GitHub
-
-Code source disponible ici : [https://github.com/Ange56/projet_photovoltaiques](https://github.com/Ange56/projet_photovoltaiques)
